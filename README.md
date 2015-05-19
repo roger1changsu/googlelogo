@@ -1,1 +1,1 @@
-# googlelogo
+# Google Logo in Weibo
